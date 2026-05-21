@@ -542,8 +542,7 @@ export function DesignGuide() {
                   onSave={setInlineDesc}
                   as="p"
                   className="text-sm text-muted-foreground"
-                  placeholder="Add a description..."
-                  multiline
+                  placeholder="No description yet"
                 />
               </div>
             </div>
